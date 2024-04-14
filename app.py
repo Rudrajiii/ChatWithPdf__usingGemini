@@ -12,7 +12,7 @@ from style_templates import css
 import os
 
 load_dotenv()
-GOOGLE_API_KEY = "AIzaSyDb3vYFYQIz0CSJug8VFPdWRJ5X4GS0BfY"
+GOOGLE_API_KEY = "YOUR_API_KEY"
 
 def get_pdf_text(pdf_docs):
     text = ""
