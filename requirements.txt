@@ -1,3 +1,4 @@
+#required package's
 langchain==0.1.16
 langchain_google_genai==1.0.2
 protobuf==5.26.1
